@@ -1,0 +1,15 @@
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.csproj.AssemblyReference.cache
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.AssemblyInfoInputs.cache
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.AssemblyInfo.cs
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.csproj.CoreCompileInputs.cache
+/Users/alexanderstrombom/Projects/Mainss/Mainss/bin/Debug/net6.0/Mainss
+/Users/alexanderstrombom/Projects/Mainss/Mainss/bin/Debug/net6.0/Mainss.deps.json
+/Users/alexanderstrombom/Projects/Mainss/Mainss/bin/Debug/net6.0/Mainss.runtimeconfig.json
+/Users/alexanderstrombom/Projects/Mainss/Mainss/bin/Debug/net6.0/Mainss.dll
+/Users/alexanderstrombom/Projects/Mainss/Mainss/bin/Debug/net6.0/Mainss.pdb
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.dll
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/refint/Mainss.dll
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.pdb
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/Mainss.genruntimeconfig.cache
+/Users/alexanderstrombom/Projects/Mainss/Mainss/obj/Debug/net6.0/ref/Mainss.dll
